@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testResults version="1.2">
+<sample t="3" it="0" lt="0" ct="0" ts="1563094546672" s="false" lb="BeanShell Sampler" rc="500" rm="org.apache.jorphan.util.JMeterException: Error invoking bsh method: eval&#x9;In file: inline evaluation of: ``//import org.testng.Assert;  String a=&quot;&quot;haha;  Assert.assertEquals(1,2,&quot;wwewwwww . . . &apos;&apos; Encountered &quot;haha&quot; at line 3, column 12.&#xa;" tn="测试 1-1" dt="text" by="0" sby="0" ng="1" na="1"/>
+
+</testResults>
